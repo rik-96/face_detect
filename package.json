@@ -2,8 +2,10 @@
   "name": "brain",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rik-96.github.io/face_detect",
   "dependencies": {
     "clarifai": "^2.8.0",
+    "gh-pages": "^1.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-particles-js": "^2.2.0",
